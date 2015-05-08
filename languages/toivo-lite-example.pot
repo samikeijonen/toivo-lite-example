@@ -1,0 +1,68 @@
+# Copyright (C) 2015 Sami Keijonen
+# This file is distributed under the GNU General Public License v2.0 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Toivo Lite Example 1.0.0\n"
+"Report-Msgid-Bugs-To: https://foxland.fi/contact/\n"
+"POT-Creation-Date: 2015-05-08 17:44:23+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.0\n"
+"Language: en_US\n"
+
+#: footer.php:36
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:36
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:38
+msgid "Theme %1$s by %2$s"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Toivo Lite Example"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://foxland.fi/downloads/toivo"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Example Child theme of Toivo Lite theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Sami Keijonen"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://foxland.fi"
+msgstr ""
+
+#: footer.php:37
+msgctxt "Separator in site info."
+msgid "&middot;"
+msgstr ""
+
+#: functions.php:136
+#. Translators: If there are characters in your language that are not
+#. * supported by Open Sans, translate this to 'off'. Do not translate
+#. * into your own language.
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:142
+#. Translators: If there are characters in your language that are not
+#. * supported by Nunito, translate this to 'off'. Do not translate
+#. * into your own language.
+msgctxt "Nunito font: on or off"
+msgid "on"
+msgstr ""
